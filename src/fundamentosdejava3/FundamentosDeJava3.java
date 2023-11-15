@@ -38,7 +38,7 @@ Ambos bucles son fundamentales para controlar el flujo de ejecucion en programas
         System.out.println("VARIABLES");
         System.out.println("---------");
         int edad =35 ;
-        String nombre = "Mariana Soto,";
+        String nombre = "Mariana Belen Soto,";
         String salario = "$ 1000000"; 
         
         System.out.println("Mi nombre es "+nombre);
